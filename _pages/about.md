@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+## About me
 
 I am currently a Software Engineer in the [Van Valen Group](https://www.vanvalen.caltech.edu/) as part of Caltech's [SASE program](https://sase.caltech.edu/). For my undergraduate studies, I attended Caltech and received a B.S. in Chemistry and Computer Science in 2022.
 
