@@ -15,8 +15,8 @@ How can we obtain large amounts of rich biological image data for deep learning 
 
 ### CipherDB
 
-[Github](https://github.com/chopralab/cipher_db)
+![CipherDB](/images/graphviz.png){: width="250" style="float: right; p: 2;"}
 
-![CipherDB](/images/graphviz.png){: width="300" style="float: right;"}
+[Github](https://github.com/chopralab/cipher_db)
 
 Computational tools such as generative models have shown promise in proposing molecules with highly desirable properties (eg. for drug discovery). The [2020 NCATS ASPIRE Challenge](https://ncats.nih.gov/aspire/funding/2020ChallengeWinners#c1) sought approaches to tackling the opioid crisis through discovery of analgesics with non-addictive properties. As part of my NSF REU Summer Research internship with [Prof. Gaurav Chopra](http://www.chopralab.com/) at Purdue, I wrote MongoDB triggers to automatically calculate synthesis-related metrics and visualize proposed retrosynthetic routes to any drug-like molecule that was added to a database, including those output by generative models. I also developed a new synthetic feasibility metric by using a feed-forward neural network to predict the number of steps required to synthesize a given molecule as proposed by a CASP tool (ASKCOS). Our work on the database and associated platforms went on to win the grand prize in the challenge.
