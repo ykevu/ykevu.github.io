@@ -15,7 +15,7 @@ How can we obtain large amounts of rich biological image data for deep learning 
 
 ### CipherDB
 
-![CipherDB](/images/graphviz.png){: width="250" style="float: right; padding-left: 10px;"}
+![CipherDB](/images/graphviz.png){: width="250" style="float: right; padding-left: 50px;"}
 
 [Github](https://github.com/chopralab/cipher_db)
 
