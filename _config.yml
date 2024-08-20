@@ -80,11 +80,11 @@ analytics:
 author:
   name: "Kevin Yu"
   avatar: "profile.png"
-  bio: "Schmidt Software Engineer @ Van Valen Lab"
-  location: "Caltech"
+  bio: "Research Assistant @ Coley Group"
+  location: "MIT"
   employer:
   pubmed:
-  googlescholar:
+  googlescholar: "https://scholar.google.com/citations?user=8k6ikroAAAAJ"
   email:
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
@@ -100,7 +100,7 @@ author:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin:
+  linkedin: "https://www.linkedin.com/in/kevin-yu-854b09174/"
   orcid:
   pinterest:
   soundcloud:
